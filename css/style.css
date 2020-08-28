@@ -1,0 +1,56 @@
+
+*{
+	margin:0px;
+	padding: 0px;
+}
+body{
+	
+	font: size 2px;
+	text-align: center;
+	font-family: 'Pangolin', cursive;
+	
+	
+}
+
+/*Images*/
+.container{
+	padding-top: 30px;
+}
+
+
+
+.col-lg-4 img{
+	border-radius: 70px;
+	
+}
+
+.col-lg-4 :hover{
+	transition: 1s;
+	transform: scale(1.3);
+}
+
+
+.mickey{
+	padding: 50px;
+	padding-top: 90px;
+}
+
+.content{
+	margin-bottom: 30px;
+}
+
+.col-md-5 img{
+	border-radius: 50px;
+}
+
+footer{
+	padding-top: 20px;	
+}
+
+
+
+
+
+
+
+
